@@ -2,13 +2,14 @@
 
 ## Steps to create the app
 
-* Created a List and added a Navigation Bar.
+### Created a List and added a Navigation Bar.
 
 Found in Views/ContentView
 
 ![First](Documentation/1.png)
 
-* Used Networking to get Hacker News API's and apply it to the app.
+
+### Used Networking to get Hacker News API's and apply it to the app.
 
 Found in Models/NetworkManager
 
@@ -19,7 +20,7 @@ Found in Models/PostData
 ![Second2](Documentation/2.2.png)
 
 
-* Using the Post struct, I added the posts' titles and points to the List. 
+### Using the Post struct, I added the posts' titles and points to the List. 
 
 Found in Views/ContentView
 
@@ -30,7 +31,7 @@ Found in Models/NetworkManager
 ![Third2](Documentation/3.2.png)
 
 
-* Created additional structs so when the user taps on the post, they get taken to the post's link.
+### Created additional structs so when the user taps on the post, they get taken to the post's link.
 
 Found in Views/DetailView
 
